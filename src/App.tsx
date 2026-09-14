@@ -102,7 +102,7 @@ const CERTIFICATIONS = [
   { name: "HSE Levels 1–3", year: "2019", color: "#34d399" },
   { name: "Environmental Impact Assessment (EIA)", year: "2019", color: "#34d399" },
   { name: "Basic First Aid / CPR", year: "2019", color: "#fb7185" },
-  { name: "Process Safety Management", year: "2019", color: "#fb923c" },
+  { name: "Process Safety Management", year: "2026", color: "#fb923c" },
   { name: "BSc Geography — First Class Honours", year: "2017", color: "#f59e0b" },
 ];
 
