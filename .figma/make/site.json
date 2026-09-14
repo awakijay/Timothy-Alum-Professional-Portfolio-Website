@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning, mobile-responsive portfolio websites with animations, tailored for professionals to showcase their skills and achievements effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
